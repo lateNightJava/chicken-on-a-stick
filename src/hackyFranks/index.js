@@ -1,0 +1,1 @@
+exports.diagonalDiff = require('./diagonal-difference');
