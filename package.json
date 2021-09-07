@@ -1,0 +1,23 @@
+{
+  "name": "chickenonastick",
+  "version": "0.0.1",
+  "description": "nothing useful here",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lateNightJava/chicken-on-a-stick.git"
+  },
+  "author": "lateNightJava (Mark Martinez)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lateNightJava/chicken-on-a-stick/issues"
+  },
+  "homepage": "https://github.com/lateNightJava/chicken-on-a-stick#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}
