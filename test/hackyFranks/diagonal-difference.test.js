@@ -87,7 +87,6 @@ describe('Diagonal Difference', () => {
     const randomInt = createRandomInt(-1000, 1000);
     const randomLength = createRandomInt(2, 15);
     const matrix = createSeqMatrix(randomInt, randomLength);
-    console.log('matrix', matrix);
     const diff = diagonalDiff(matrix);
 
     expect(diff).to.be.a('number', 'returned result is not a number');
